@@ -1,0 +1,9 @@
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\bin\Release\boku no speaker.exe.config
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\bin\Release\boku no speaker.exe
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\bin\Release\boku no speaker.pdb
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Release\boku_no_speaker.Form1.resources
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Release\boku_no_speaker.Properties.Resources.resources
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Release\boku no speaker.csproj.GenerateResource.cache
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Release\boku no speaker.csproj.CoreCompileInputs.cache
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Release\boku no speaker.exe
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Release\boku no speaker.pdb

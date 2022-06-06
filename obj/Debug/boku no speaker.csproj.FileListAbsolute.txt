@@ -1,0 +1,50 @@
+E:\app lop 11\boku no speaker\obj\Debug\boku no speaker.csproj.AssemblyReference.cache
+E:\app lop 11\boku no speaker\obj\Debug\boku_no_speaker.Form1.resources
+E:\app lop 11\boku no speaker\obj\Debug\boku no speaker.csproj.GenerateResource.cache
+E:\app lop 11\boku no speaker\bin\Debug\boku no speaker.exe.config
+E:\app lop 11\boku no speaker\bin\Debug\boku no speaker.exe
+E:\app lop 11\boku no speaker\bin\Debug\boku no speaker.pdb
+E:\app lop 11\boku no speaker\obj\Debug\boku_no_speaker.Properties.Resources.resources
+E:\app lop 11\boku no speaker\obj\Debug\boku no speaker.csproj.CoreCompileInputs.cache
+E:\app lop 11\boku no speaker\obj\Debug\boku no speaker.exe
+E:\app lop 11\boku no speaker\obj\Debug\boku no speaker.pdb
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\boku no speaker.exe.config
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\boku no speaker.exe
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\boku no speaker.pdb
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.csproj.AssemblyReference.cache
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku_no_speaker.Form1.resources
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku_no_speaker.Properties.Resources.resources
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.csproj.GenerateResource.cache
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.csproj.CoreCompileInputs.cache
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.exe
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.pdb
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\boku no speaker.exe.config
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\boku no speaker.exe
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\boku no speaker.pdb
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\System.Management.Automation.dll
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\System.Management.Automation.xml
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.csproj.AssemblyReference.cache
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku_no_speaker.Form1.resources
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku_no_speaker.Properties.Resources.resources
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.csproj.GenerateResource.cache
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.csproj.CoreCompileInputs.cache
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.csproj.CopyComplete
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.exe
+C:\Users\hanng\Desktop\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.pdb
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\boku no speaker.exe.config
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\boku no speaker.exe
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\boku no speaker.pdb
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\System.Management.Automation.dll
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\bin\Debug\System.Management.Automation.xml
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.csproj.AssemblyReference.cache
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku_no_speaker.Form1.resources
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku_no_speaker.Properties.Resources.resources
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.csproj.GenerateResource.cache
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.csproj.CoreCompileInputs.cache
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.csproj.CopyComplete
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.exe
+C:\Users\hanng\Downloads\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 3\Hân + Hiếu speaker ver 2\boku no speaker\obj\Debug\boku no speaker.pdb
