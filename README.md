@@ -1,1 +1,2 @@
 # Senku-Speaker
+# Read numbers.
